@@ -9,7 +9,7 @@
         
         <p>
             Cette page contient <strong>uniquement</strong> du code HTML.<br />
-            <?php echo "salut "; ?>
+            <?php echo "bonjour "; ?>
             Voici quelques petits tests :
         </p>
         
