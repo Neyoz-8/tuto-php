@@ -10,6 +10,7 @@
         <p>
             Cette page contient <strong>uniquement</strong> du code HTML.<br />
             <?php echo "bonjour "; ?>
+            <?php echo "ca va?"; ?>
             Voici quelques petits tests :
         </p>
         
