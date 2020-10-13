@@ -5,7 +5,9 @@
         <title>Ceci est une page HTML de test</title>
     </head>
     <body>
-        <h2>Page de test</h2>
+        <h1>Ma page web</h1>
+        <p>Aujourd'hui nous sommes le <?php echo date('d/m/Y h:i:s'); ?>.</p>
+        
         
         <p>
             Cette page contient <strong>uniquement</strong> du code HTML.<br />
